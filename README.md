@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akanksha Kumari and cuurently i am Pursuing B.tech.
+- 👋 Hi, I’m Akanksha Kumari and currently i am Pursuing B.tech.
 - 👀 I’m interested in Coding and Blogging.
 - 🌱 I’m currently learning web developing.
 - 💞️ I’m looking to collaborate on projects.
